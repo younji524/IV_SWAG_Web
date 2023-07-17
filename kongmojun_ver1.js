@@ -11,6 +11,7 @@ var connection = mysql.createConnection({
   database : 'mysql'
 });
 
+// Connecting MariaDB
 connection.connect(function(err)
 {
     if(err) throw err;
@@ -29,6 +30,7 @@ app.get("/", function(req, res)
     res.render("kongmojun_ver1.html", {});
 });
 
+// Get Info from MariaDB
 app.get('/backflow', (req, res) => {
     connection.query('SELECT * FROM backflow_distance ORDER BY DATETIME DESC LIMIT 1', function(err, rows, fields) {
     if (err) throw err;
