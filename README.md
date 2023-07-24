@@ -13,8 +13,8 @@
 <br/><br/>
   
 **[ 웹페이지 기본 화면 ]**
-
-![웹페이지](https://github.com/younji524/IV_SWAG_Web/assets/76142194/0588719f-2331-44b8-b761-fa7e13c04582)
+<br/>
+![웹페이지](https://github.com/younji524/IV_SWAG_Web/assets/76142194/0588719f-2331-44b8-b761-fa7e13c04582) <br/>
 
 <br/><br/><br/>
 **[ 딥러닝 결과 반영 ]**
@@ -32,6 +32,7 @@
 -  웹페이지에 현재 주입량을 계산하여 표시
 
 <br/>
+
 ![웹페이지_측정부](https://github.com/younji524/IV_SWAG_Web/assets/76142194/75c27cd2-f910-4c33-ab41-640039cd234d)
 
 <br/><br/><br/>
@@ -43,6 +44,7 @@
 - 입력된 값을 HeidiSQL 로 전송
 - 라즈베리파이에서 값을 읽어 아두이노로 보내 모터 제어
 <br/>
+
 ![웹페이지_조절부](https://github.com/younji524/IV_SWAG_Web/assets/76142194/9110ab57-2079-42e9-bf9a-a70a8809465c)
 
 <br/><br/><br/>
@@ -56,5 +58,6 @@
 - 혈액 역류 여부 표시 (역류 발생 이후 시간 표시)
 - 밴드 착용 여부 표시 (밴드 미착용 이후 시간 표시)
 <br/>
+
 ![웹페이지_감지부](https://github.com/younji524/IV_SWAG_Web/assets/76142194/b8659561-6fe5-462c-b9dc-87ac8e90002b)
 
