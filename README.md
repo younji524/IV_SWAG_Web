@@ -16,7 +16,7 @@
 
 ![웹페이지](https://github.com/younji524/IV_SWAG_Web/assets/76142194/0588719f-2331-44b8-b761-fa7e13c04582)
 
-
+<br/><br/><br/>
 **[ 딥러닝 결과 반영 ]**
 
 [ Infusion Volume ]
@@ -33,7 +33,7 @@
 
 ![웹페이지_측정부](https://github.com/younji524/IV_SWAG_Web/assets/76142194/75c27cd2-f910-4c33-ab41-640039cd234d)
 
-
+<br/><br/><br/>
 **[ 수액 주입량 원격 제어 ]**
 
 [ Flow Rate ] 
@@ -44,7 +44,7 @@
 
 ![웹페이지_조절부](https://github.com/younji524/IV_SWAG_Web/assets/76142194/9110ab57-2079-42e9-bf9a-a70a8809465c)
 
-
+<br/><br/><br/>
 **[ 수액 역류 여부 확인 ]**
 
 [ Wrist Band ] 
