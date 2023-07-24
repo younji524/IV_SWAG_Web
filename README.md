@@ -12,12 +12,12 @@
 5. 수액 역류 여부 확인
 <br/><br/>
   
-**[ 웹페이지 기본 화면 ]**
-<br/>
+**[ 웹페이지 기본 화면 ]** <br/><br/>
+
 ![웹페이지](https://github.com/younji524/IV_SWAG_Web/assets/76142194/0588719f-2331-44b8-b761-fa7e13c04582) <br/>
 
 <br/><br/><br/>
-**[ 딥러닝 결과 반영 ]** <br/>
+**[ 딥러닝 결과 반영 ]** <br/><br/>
 [ Infusion Volume ] <br/>
 
 - 현재 주입량 확인 가능
@@ -35,7 +35,7 @@
 ![웹페이지_측정부](https://github.com/younji524/IV_SWAG_Web/assets/76142194/75c27cd2-f910-4c33-ab41-640039cd234d)
 
 <br/><br/><br/>
-**[ 수액 주입량 원격 제어 ]**  <br/>
+**[ 수액 주입량 원격 제어 ]**  <br/><br/>
 [ Flow Rate ] <br/>
 
 - 원하는 주입 속도를 입력
@@ -46,7 +46,7 @@
 ![웹페이지_조절부](https://github.com/younji524/IV_SWAG_Web/assets/76142194/9110ab57-2079-42e9-bf9a-a70a8809465c)
 
 <br/><br/><br/>
-**[ 수액 역류 여부 확인 ]**  <br/>
+**[ 수액 역류 여부 확인 ]**  <br/><br/>
 [ Wrist Band ] <br/>
 
 - 아두이노에서 혈액 역류와 밴드 착용 여부를 감지
