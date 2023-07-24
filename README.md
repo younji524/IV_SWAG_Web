@@ -17,14 +17,13 @@
 ![웹페이지](https://github.com/younji524/IV_SWAG_Web/assets/76142194/0588719f-2331-44b8-b761-fa7e13c04582) <br/>
 
 <br/><br/><br/>
-**[ 딥러닝 결과 반영 ]**
-<br/>
-[ Infusion Volume ]
+**[ 딥러닝 결과 반영 ]** <br/>
+[ Infusion Volume ] <br/>
 
 - 현재 주입량 확인 가능
 - 설정한 주입 속도에 따라 현재까지의 예상 주입량 확인 가능
 
-[ Flow Rate ]
+[ Flow Rate ] <br/>
 
 - 라즈베리파이로부터 영상 획득
 - 딥러닝 객체인식을 기반으로 수액 물방울 카운팅
@@ -36,9 +35,8 @@
 ![웹페이지_측정부](https://github.com/younji524/IV_SWAG_Web/assets/76142194/75c27cd2-f910-4c33-ab41-640039cd234d)
 
 <br/><br/><br/>
-**[ 수액 주입량 원격 제어 ]**
-<br/>
-[ Flow Rate ] 
+**[ 수액 주입량 원격 제어 ]**  <br/>
+[ Flow Rate ] <br/>
 
 - 원하는 주입 속도를 입력
 - 입력된 값을 HeidiSQL 로 전송
@@ -48,9 +46,8 @@
 ![웹페이지_조절부](https://github.com/younji524/IV_SWAG_Web/assets/76142194/9110ab57-2079-42e9-bf9a-a70a8809465c)
 
 <br/><br/><br/>
-**[ 수액 역류 여부 확인 ]**
-<br/>
-[ Wrist Band ] 
+**[ 수액 역류 여부 확인 ]**  <br/>
+[ Wrist Band ] <br/>
 
 - 아두이노에서 혈액 역류와 밴드 착용 여부를 감지
 - 라즈베리파이로 정보 전송
